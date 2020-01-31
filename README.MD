@@ -80,7 +80,7 @@ export  $initHighlight;
 | Nombre | Apellido | Documento |
 -------- | -------- | ----------|
 | Raymundo| Zertuche | 11244
-| Raul | Perez | dnnj3j4
+| Raul | Perez | dnnj3j434
 
 # Citas
 esto es un gtexto referente a una cita que pondremos debajo:
