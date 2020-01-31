@@ -91,7 +91,7 @@ Esto no tiene nada que ver con la cita
 > Esto es cita nueva
 
 # Lineas Divisoras
-Esto es un texto que sera dividido por guines medios.
+Esto es un texto que va ser dividido por guines medios.
 
 ---
 Esto es otro texto dividido por asteriscos.
